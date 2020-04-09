@@ -1,0 +1,11 @@
+{
+  "name": "gostack11.0_node_introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jackie098/gostack11.0_node_introduction.git",
+  "author": "Jackie098 <carlosmiranda19122@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
